@@ -1,2 +1,3 @@
 # desafio-1-landing-page
-Este é o projeto de desenvolvimento de landing page para o Desafio 1 da Escola DNC.
+Link do site disponibilizado: https://desafio-1-landing-page-pm.netlify.app
+Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1A0LCeXdX8QF5TKVxK_eAn_K6aOUZoGuGl0proeVUSWA/edit?gid=0#gid=0
